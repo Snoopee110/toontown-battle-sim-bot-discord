@@ -22,4 +22,5 @@ todo
 
 # Credits
 [Toontown Rewritten](https://toontownrewritten.com) - The game itself
+
 [Rapptz (discord.py)](https://github.com/Rapptz/discord.py) - The library to allow this to work in Discord
