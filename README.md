@@ -8,14 +8,14 @@ A Discord Bot that can simulate a battle from Toontown Rewritten.
 - Corporate Clash Support
 
 # TODO
-- [] Gag Implementation
- - [] All base gag tracks
- - [] Organic Bonuses
- - [] SOS Card Bonuses (Both Toons and Cogs)
-- [] Cog Implementation
- - [] Status Effects (Both Toons and Cogs)
- - [] Custom Cog Implementation
-  - [] Cog Cheats
+- [ ] Gag Implementation
+ - [ ] All base gag tracks
+ - [ ] Organic Bonuses
+ - [ ] SOS Card Bonuses (Both Toons and Cogs)
+- [ ] Cog Implementation
+ - [ ] Status Effects (Both Toons and Cogs)
+ - [ ] Custom Cog Implementation
+  - [ ] Cog Cheats
 
 # Setup Instructions
 todo
